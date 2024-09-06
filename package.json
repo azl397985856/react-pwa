@@ -12,10 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.16.2",
-    "prop-types": "^15.5.10",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "react-router-dom": "^4.2.2"
+    "prop-types": "^15.6.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-router-dom": "^5.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
